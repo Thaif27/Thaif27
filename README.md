@@ -25,7 +25,10 @@
 <div> 
 
  <a href="https://discord.gg/tRe2XHpF" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href="mailto:thaif.ramon@gmail.com?subject=Contato%20pelo%20GitHub&body=Oi%20Thaif..."
+  <a href="https://mail.google.com/mail/?view=cm&fs=1
+&to=thaif.ramon@gmail.com
+&su=Contato%20pelo%20GitHub
+&body=Oi%20Thaif%2C%20vi%20seu%20perfil%20no%20GitHub..."
    target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
